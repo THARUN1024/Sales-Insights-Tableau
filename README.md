@@ -52,8 +52,6 @@ The analysis is based on the following datasets:
 
 ## Technologies Used
 - **Tableau**: Data visualization and dashboard creation.
-- **SQL**: Data extraction and transformation (if applicable).
-- **Excel/CSV**: Data preprocessing and storage.
 
 ## Visualizations
 The following dashboards were created using Tableau:
